@@ -1,4 +1,4 @@
-## The Loomio Co-op Handbook
+## The Democracy Earth Foundation Handbook
 
 
 <img src='loomio-phone.png' class='img-right img-250px'>
