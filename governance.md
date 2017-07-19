@@ -1,6 +1,6 @@
 # Governance
 
-Loomio has a board of directors, which serves a similar governance function to boards of other New Zealand companies.
+DEF has a board of directors, which serves a similar governance function to boards of other New Zealand companies.
 
 > A board is:
 
