@@ -1,10 +1,10 @@
-# Stewarding at Loomio
+# Stewarding at Democracy Earth Foundation
 
 <img src='Stewarding relationships.png' class='img-right img-250px'>
 
-We don't have bosses, so we figure out how to serve the useful functions bosses can serve in other ways. Some of that is covered by [Coordinators](coordination.html) or other processes. Stewarding is Loomio's approach to peer support.
+We don't have bosses, so we figure out how to serve the useful functions bosses can serve in other ways. Some of that is covered by [Coordinators](coordination.html) or other processes. Stewarding is DEF's approach to peer support.
 
-Here are some of the things a boss might do in another organisation, that stewards hold at Loomio:
+Here are some of the things a boss might do in another organisation, that stewards hold at DEF:
 
 * be the ones you talk to if your coworker is being a jerk
 * support you to meet your personal development goals
@@ -15,7 +15,7 @@ When you have an issue, you can’t approach a group; you need a specific person
 
 Stewarding is not about managing your daily work. Its about you as an individual, and your relationship to the co-op. They can be your mentor, or your guide, or your sounding board. If you ever get into a [conflict](conflict_resolution.html) situation, they’ll be by your side making sure you are well supported to a resolution.
 
-Everyone working on Loomio has a Steward. These relationships facilitate connections across the co-op, opportunities for exchanging insights, and deeper understanding of individuals and areas of work. They also help us ensure that we're looking after people.
+Everyone working on DEF has a Steward. These relationships facilitate connections across the co-op, opportunities for exchanging insights, and deeper understanding of individuals and areas of work. They also help us ensure that we're looking after people.
 
 ## Principles/Policies of our Stewardship System
 
@@ -29,7 +29,7 @@ Everyone working on Loomio has a Steward. These relationships facilitate connect
 * Stewardship relationships are mutually agreed by both parties
 * We occasionally rotate stewards, to diversify the kind of support people get, while also investing in long-term stewarding relationships
 
-Most people meet with their stewards about once per month. The Well Working Group will raise a proposal on Loomio once per month, as a reminder for stewards to check in with their stewardees.
+Most people meet with their stewards about once per month. The Well Working Group will raise a proposal on DEF once per month, as a reminder for stewards to check in with their stewardees.
 
 Every stewarding relationship is different, and there are many different approaches. Some are more conversational and friendly, with mutual sharing from both parties. Sometimes stewards offer advice or challenges. Other times they simply listen. Sometimes they follow a more structured pattern, checking in on action points or measuring progress over time.
 
@@ -42,7 +42,3 @@ Your steward might ask you questions like:
 * what longer term goals are you working on? how are you progressing on them since last time?
 * how can I best support you?
 * ...and sometimes the co-op will suggest a prompt or theme for stewards to bring up
-
----
-
-**Update August 2016** - this stewarding system has been extended out of Loomio [into the wider Enspiral network](http://handbook.enspiral.com/stewardship_agreement.html). Cool eh! 🐝
